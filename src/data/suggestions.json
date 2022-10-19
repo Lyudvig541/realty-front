@@ -1,0 +1,176 @@
+{
+  "us": [
+    {
+      "active": true,
+      "description": "Yerevan, Armenia"
+    },
+    {
+      "active": false,
+      "description": "Kentron, Yerevan, Armenia"
+    },
+    {
+      "active": false,
+      "description": "Arabkir, Yerevan, Armenia"
+    },
+    {
+      "active": false,
+      "description": "Davtashen, Yerevan, Armenia"
+    },
+    {
+      "active": false,
+      "description": "Ajapnyak, Yerevan, Armenia"
+    },
+    {
+      "active": false,
+      "description": "Malatia-Sebastia, Yerevan, Armenia"
+    },
+    {
+      "active": false,
+      "description": "Shengavit, Yerevan, Armenia"
+    },
+    {
+      "active": false,
+      "description": "Qanaqer-Zeytun, Yerevan, Armenia"
+    },
+    {
+      "active": false,
+      "description": "Avan, Yerevan, Armenia"
+    },
+    {
+      "active": false,
+      "description": "Nor-Nork, Yerevan, Armenia"
+    },
+    {
+      "active": false,
+      "description": "Nork-Marash, Yerevan, Armenia"
+    },
+    {
+      "active": false,
+      "description": "Erebuni, Yerevan, Armenia"
+    },
+    {
+      "active": false,
+      "description": "Nubarashen, Yerevan, Armenia"
+    },
+    {
+      "active": false,
+      "description": "Vahagni, Yerevan, Armenia"
+    }
+  ],
+  "ru": [
+    {
+      "active": true,
+      "description": "Ереван, Армениа"
+    },
+    {
+      "active": false,
+      "description": "Центр, Ереван, Армениа"
+    },
+    {
+      "active": false,
+      "description": "Арабкир, Ереван, Армениа"
+    },
+    {
+      "active": false,
+      "description": "Давиташен, Ереван, Армениа"
+    },
+    {
+      "active": false,
+      "description": "Ачапняк, Ереван, Армениа"
+    },
+    {
+      "active": false,
+      "description": "Малатиа-Себастиа, Ереван, Армениа"
+    },
+    {
+      "active": false,
+      "description": "Шенгавит, Ереван, Армениа"
+    },
+    {
+      "active": false,
+      "description": "Канакер-Зейтун, Ереван, Армениа"
+    },
+    {
+      "active": false,
+      "description": "Аван, Ереван, Армениа"
+    },
+    {
+      "active": false,
+      "description": "Нор Норк, Ереван, Армениа"
+    },
+    {
+      "active": false,
+      "description": "Норк Мараш, Ереван, Армениа"
+    },
+    {
+      "active": false,
+      "description": "Эребуни, Ереван, Армениа"
+    },
+    {
+      "active": false,
+      "description": "Нубарашен, Ереван, Армениа"
+    },
+    {
+      "active": false,
+      "description": "Ваагни, Ереван, Армениа"
+    }
+  ],
+  "am": [
+    {
+      "active": true,
+      "description": "Երևան, Հայաստան"
+    },
+    {
+      "active": false,
+      "description": "Կենտրոն, Երևան, Հայաստան"
+    },
+    {
+      "active": false,
+      "description": "Արաբկիր, Երևան, Հայաստան"
+    },
+    {
+      "active": false,
+      "description": "Դավիթաշեն, Երևան, Հայաստան"
+    },
+    {
+      "active": false,
+      "description": "Աջափնյակ, Երևան, Հայաստան"
+    },
+    {
+      "active": false,
+      "description": "Մալաթիա Սեբաստիա, Երևան, Հայաստան"
+    },
+    {
+      "active": false,
+      "description": "Շենգավիթ, Երևան, Հայաստան"
+    },
+    {
+      "active": false,
+      "description": "Քանաքեռ Զեյթուն, Երևան, Հայաստան"
+    },
+    {
+      "active": false,
+      "description": "Ավան, Երևան, Հայաստան"
+    },
+    {
+      "active": false,
+      "description": "Նոր Նորք, Երևան, Հայաստան"
+    },
+    {
+      "active": false,
+      "description": "Նորք Մարաշ, Երևան, Հայաստան"
+    },
+    {
+      "active": false,
+      "description": "Էրեբունի, Երևան, Հայաստան"
+    },
+    {
+      "active": false,
+      "description": "Նուբարաշեն, Երևան, Հայաստան"
+    },
+    {
+      "active": false,
+      "description": "Վահագնի, Երևան, Հայաստան"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+import React from 'react';
+import Navbar from './global-components/navbar';
+import PageHeader from './global-components/page-header';
+import Mission from './section-components/mission';
+import ServiceTwo from './section-components/service-two';
+import Team from './section-components/team';
+import Client from './section-components/client';
+import Footer from './global-components/footer';
+
+const About = () => {
+    return <div>
+        <Navbar />
+        <PageHeader headertitle="About" />
+        <Mission />
+        <ServiceTwo />
+        <Team />
+        <Client />
+        <Footer />
+    </div>
+}
+
+export default About
+

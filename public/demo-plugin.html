@@ -1,0 +1,32 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+
+    <title>Image Map Pro - Demo</title>
+    <meta name="description" content="Image Map Pro - Demo">
+    <meta name="author" content="Webcraft">
+
+    <link rel="stylesheet" href="./assets/css/image-map-pro.min.css">
+
+</head>
+
+<body>
+<div id="image-map-pro-container"></div>
+
+<script src="./assets/js/jquery.min.js"></script>
+<script src="./assets/js/image-map-pro.min.js"></script>
+
+<script>
+    ;(function ($, window, document, undefined) {
+        $(document).ready(function() {
+            // Launch the plugin
+
+            $('#image-map-pro-container').imageMapPro(settings);
+
+        });
+    })(jQuery, window, document);
+</script>
+</body>
+</html>
